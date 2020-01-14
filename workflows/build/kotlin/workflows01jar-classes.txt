@@ -1,0 +1,1 @@
+/Users/adamhouston/Dev/Corda/cordapp/SerializationTest/workflows/build/classes/kotlin/main/com/serializationtest/flows/Initiator.class:/Users/adamhouston/Dev/Corda/cordapp/SerializationTest/workflows/build/classes/kotlin/main/com/serializationtest/flows/Responder.class
